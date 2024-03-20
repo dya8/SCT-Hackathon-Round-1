@@ -2,7 +2,7 @@
 # Find the Best Delivery Route
 
 
-This repo involves optimizing the delivery route for a vehicle starting from the depot of an eCommerce organization (like Walmart) to deliver packages to customer locations. Here's a reframed description of the process of finding the best route:
+This repo involves optimizing the delivery route for a vehicle starting from the depot of an eCommerce organization (like Walmart) to deliver packages to customer location.The process of finding the best route involves:
 
 Origin Point Identification: The delivery process begins at the depot, which serves as the starting point for the vehicle's journey.
 
