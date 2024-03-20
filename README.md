@@ -2,7 +2,7 @@
 # Find the Best Delivery Route
 
 
-This repo involves optimizing the delivery route for a vehicle starting from the depot of an eCommerce organization (like Walmart) to deliver packages to customer location.The process of finding the best route involves:
+This program involves optimizing the delivery route for a vehicle starting from the depot of an eCommerce organization (like Walmart) to deliver packages to customer location.The process of finding the best route involves:
 
 Origin Point Identification: The delivery process begins at the depot, which serves as the starting point for the vehicle's journey.
 
@@ -16,7 +16,9 @@ Return Journey Planning: Once all customer deliveries are completed, the vehicle
 
 Efficiency Maximization: The objective is to maximize overall delivery efficiency by strategically planning the sequence of customer visits and the return journey to the depot.
 
-Dynamic Routing Considerations: Factors such as traffic conditions, road closures, and real-time order updates may necessitate dynamic adjustments to the planned route to adapt to changing circumstances and optimize delivery efficiency furth
+Dynamic Routing Considerations: Factors such as traffic conditions, road closures, and real-time order updates may necessitate dynamic adjustments to the planned route to adapt to changing circumstances and optimize delivery efficiency further.
+
+At the end this program helps us in finding the optimal sequence of customer visits and return journey to the depot, considering constraints such as single visit per customer and aiming to maximize delivery efficiency.
 
 
 
